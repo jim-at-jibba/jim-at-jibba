@@ -1,7 +1,5 @@
 ### Hi there 🦄 🐙
 
-[![wakatime](https://wakatime.com/badge/user/018d9191-5f0f-4e9a-9532-970d96c2c9ee.svg)](https://wakatime.com/@018d9191-5f0f-4e9a-9532-970d96c2c9ee)
-
 
 Here are some ideas to get you started:
 
