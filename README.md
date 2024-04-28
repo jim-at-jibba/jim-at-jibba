@@ -1,7 +1,4 @@
-### Hi there 🦄 🐙
-
-
-Here are some ideas to get you started:
+### Hi there 🦄🐙
 
 - 🔭 I’m currently working on: [Ariake.nvim](https://github.com/jim-at-jibba/ariake.nvim), [micropython.nvim](https://github.com/jim-at-jibba/micropython.nvim), various chatbot projects
 - 🌱 I’m currently learning Python, Gleam, ways to leverage LLMs, programming microcontrollers with micropython
