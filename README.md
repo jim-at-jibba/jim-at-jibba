@@ -1,6 +1,7 @@
 ### Hi there 🦄🐙
 
 - 🔭 I’m currently working on: [Ariake.nvim](https://github.com/jim-at-jibba/ariake.nvim), [micropython.nvim](https://github.com/jim-at-jibba/micropython.nvim), various chatbot projects
+- 🧠 I'm currently build Kyo a suite of tools help ND people thrive in a neurotypical world
 - 🌱 I’m currently learning Python, Gleam, ways to leverage LLMs, programming microcontrollers with micropython
 
 <!--
